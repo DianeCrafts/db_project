@@ -13,5 +13,5 @@ class GhorbanianApplication
 
 
 fun main(args: Array<String>) {
-	runApplication<GhorbanianApplication>(*args)
+	runApplication<DBApplication.kt>(*args)
 }
